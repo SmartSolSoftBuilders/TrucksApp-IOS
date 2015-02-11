@@ -1,0 +1,5 @@
+XSym
+0110
+d655c8cbf1e94fc310b52b75581a1e46
+/Users/smartsolutions/Documents/Titanium_Studio_Workspace/TrucksApp/Resources/ui/favoritos/FavoritosAndroid.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

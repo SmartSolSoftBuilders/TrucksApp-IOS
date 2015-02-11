@@ -1,0 +1,5 @@
+XSym
+0097
+2731e41f0d455ed156594aa3645eca09
+/Users/smartsolutions/Documents/Titanium_Studio_Workspace/TrucksApp/Resources/ui/common/Index2.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

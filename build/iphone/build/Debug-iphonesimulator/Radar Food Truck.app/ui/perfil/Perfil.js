@@ -1,0 +1,5 @@
+XSym
+0097
+c67b15c2b521f7e157584dfc22c71752
+/Users/smartsolutions/Documents/Titanium_Studio_Workspace/TrucksApp/Resources/ui/perfil/Perfil.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

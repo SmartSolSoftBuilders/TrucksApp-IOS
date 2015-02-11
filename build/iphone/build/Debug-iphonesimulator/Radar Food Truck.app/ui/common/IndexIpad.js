@@ -1,0 +1,5 @@
+XSym
+0100
+3ebe5d4e9f97b2577e53d2eeff66ff37
+/Users/smartsolutions/Documents/Titanium_Studio_Workspace/TrucksApp/Resources/ui/common/IndexIpad.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

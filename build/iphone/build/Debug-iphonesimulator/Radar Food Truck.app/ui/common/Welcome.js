@@ -1,0 +1,5 @@
+XSym
+0098
+b72766c207f989d710649eee211254a0
+/Users/smartsolutions/Documents/Titanium_Studio_Workspace/TrucksApp/Resources/ui/common/Welcome.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

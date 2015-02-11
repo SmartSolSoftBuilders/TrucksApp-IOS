@@ -1,0 +1,5 @@
+XSym
+0099
+7932534a3974adb316a5fdada378ad31
+/Users/smartsolutions/Documents/Titanium_Studio_Workspace/TrucksApp/Resources/ui/common/IndexIOS.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

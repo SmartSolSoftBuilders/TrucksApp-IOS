@@ -1,0 +1,5 @@
+XSym
+0106
+200054c589eb034a00612a40a263fe28
+/Users/smartsolutions/Documents/Titanium_Studio_Workspace/TrucksApp/Resources/ui/eventos/EventosAndroid.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
